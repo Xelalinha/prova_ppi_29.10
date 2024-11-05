@@ -130,14 +130,13 @@ button:hover{
 
 .fotoMacarrao #foto3{
     height: 90%;
-    width: 450px;
+    width: 400px;
     border-radius: 20px;
     border: 1px solid gray;
 }
 
 .fotoMacarrao #foto4{
-    height: 90%;
-    width: 450px;
+    width: 490px;
     border-radius: 20px;
     border: 1px solid gray;
 }
@@ -187,6 +186,11 @@ h1, h2{
     header img {
         width: 70vw;
         height: auto;
+    }
+
+    #foto{
+        max-height: 500px;
+        max-width: 500px;
     }
 
     .menu{
