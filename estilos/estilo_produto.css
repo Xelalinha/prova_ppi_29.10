@@ -130,13 +130,14 @@ button:hover{
 
 .fotoMacarrao #foto3{
     height: 90%;
-    width: 400px;
+    width: 450px;
     border-radius: 20px;
     border: 1px solid gray;
 }
 
 .fotoMacarrao #foto4{
-    width: 490px;
+    height: 90%;
+    width: 450px;
     border-radius: 20px;
     border: 1px solid gray;
 }
