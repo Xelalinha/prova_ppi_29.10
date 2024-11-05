@@ -175,7 +175,7 @@ h1, h2{
     margin-bottom: 20px;
 }
 
-@media (max-width: 900px) or (max-height: 500px){
+@media (max-width: 900px) or (max-height: 800px){
     header {
         font-size: 30px;
     }
@@ -190,18 +190,14 @@ h1, h2{
         height: auto;
     }
 
-    #foto{
+    #foto, #foto1, #foto3, #foto4 {
         max-height: auto;
-        max-width: 50vw;
+        max-width: 80vw;
+        margin-bottom: 20%;
     }
 
     .menu{
         flex-direction: column;
-    }
-
-    #foto{
-        width: 80vw;
-        margin-bottom: 20%;
     }
 
     footer {
