@@ -14,6 +14,7 @@ body {
         "header"
         "main"
         "footer";
+    background-color: #fff7d6;
 }
 
 header {
@@ -122,21 +123,22 @@ button:hover{
 }
 
 .fotoMacarrao #foto1{
-    height: 90%;
+    height: 450px;
     width: 450px;
     border-radius: 20px;
     border: 1px solid gray;
 }
 
 .fotoMacarrao #foto3{
-    height: 90%;
-    width: 400px;
+    height: 450px;
+    width: 450px;
     border-radius: 20px;
     border: 1px solid gray;
 }
 
 .fotoMacarrao #foto4{
-    width: 490px;
+    height: 450px;
+    width: 450px;
     border-radius: 20px;
     border: 1px solid gray;
 }
@@ -189,8 +191,8 @@ h1, h2{
     }
 
     #foto{
-        max-height: 500px;
-        max-width: 500px;
+        max-height: auto;
+        max-width: 50vw;
     }
 
     .menu{
